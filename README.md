@@ -1,6 +1,6 @@
 ## Welcome to Github Pages
 
-https://github.com/jonathanpelaez/jpelaez-club/edit/master/README.md
+https://github.com/jpelaezClub/jpelaez-club/edit/master/README.md
 
 https://jekyllrb.com/
 
